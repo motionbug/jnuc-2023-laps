@@ -1,4 +1,5 @@
-# The Good, the Bad,  the ugly of local admin management
+![header](img/header.jpg)
+# The Good, the Bad, the ugly of local admin management
 
 Additional Resources:
 
