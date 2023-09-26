@@ -1,7 +1,7 @@
 ![header](img/header.jpg)
 ## The Good, the Bad, the ugly of local admin management
 
-[**Download Presentation PDF**]()
+[---**Download Presentation PDF**--- COMING SOON]()
 
 
 ### *Additional Resources:*
