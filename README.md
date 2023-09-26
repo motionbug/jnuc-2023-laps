@@ -1,6 +1,9 @@
 ![header](img/header.jpg)
 ## The Good, the Bad, the ugly of local admin management
 
+[**Download Presentation PDF**]()
+
+
 ### *Additional Resources:*
 
 - Bill Smith Tech Thoughts: https://community.jamf.com/t5/tech-thoughts/how-to-securely-manage-local-admin-passwords-with-jamf-pro-and/ba-p/289969
