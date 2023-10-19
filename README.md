@@ -9,6 +9,11 @@
 - 10.48 deprecation notice: https://learn.jamf.com/bundle/jamf-pro-release-notes-10.48.0/page/Deprecations_and_Removals.html
 - https://support.apple.com/guide/deployment/dep24dbdcf9e/
 
+### Apps
+- [**Jamf LAPS**](https://github.com/jamf/jamf-laps-public)
+> "Jamf Pro 10.45 introduced a new "Local Administrator Password Solution" (LAPS) API endpoint. LAPS helps admins avoid the practice of creating a single static admin account password on their managed devices."
+
+
 ## The PRK [Option + Shift + Return]
 ![prklogin](img/PRKONLY.mp4-animation.gif)
 
