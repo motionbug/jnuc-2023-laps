@@ -1,6 +1,10 @@
 ![header](img/header.jpg)
 ## The Good, the Bad, the ugly of local admin management
 
+### JNUC Video Posted on Youtube
+
+[![YOUTUBE Video](https://share.cleanshot.com/xmY2SLlV+)](https://www.youtube.com/watch?v=HOyylxE34PM "The video")
+
 
 ### *Additional Resources:*
 
